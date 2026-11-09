@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "category": "Accessories",
+    "name": "Button 1.25 in",
+    "price_cents": 100
+  },
+  {
+    "id": 2,
+    "category": "Accessories",
+    "name": "Button 2.25 in",
+    "price_cents": 200
+  },
+  {
+    "id": 3,
+    "category": "Accessories",
+    "name": "Button 3 in",
+    "price_cents": 300
+  },
+  {
+    "id": 4,
+    "category": "Accessories",
+    "name": "Button 5.5 in",
+    "price_cents": 500
+  },
+  {
+    "id": 5,
+    "category": "Accessories",
+    "name": "Belt",
+    "price_cents": 2000
+  },
+  {
+    "id": 6,
+    "category": "Accessories",
+    "name": "Earrings",
+    "price_cents": 500
+  },
+  {
+    "id": 7,
+    "category": "Accessories",
+    "name": "Jersey keychain",
+    "price_cents": 500
+  },
+  {
+    "id": 8,
+    "category": "Accessories",
+    "name": "Rectangle keychain",
+    "price_cents": 500
+  },
+  {
+    "id": 9,
+    "category": "Accessories",
+    "name": "Suspenders",
+    "price_cents": 1000
+  },
+  {
+    "id": 10,
+    "category": "Accessories",
+    "name": "Tie",
+    "price_cents": 1500
+  },
+  {
+    "id": 11,
+    "category": "Apparel",
+    "name": "Hat",
+    "price_cents": 2000
+  },
+  {
+    "id": 12,
+    "category": "Apparel",
+    "name": "Adult T-shirt",
+    "price_cents": 2500
+  },
+  {
+    "id": 13,
+    "category": "Apparel",
+    "name": "Kids T-shirt",
+    "price_cents": 1500
+  },
+  {
+    "id": 14,
+    "category": "Apparel",
+    "name": "Sweatshirt",
+    "price_cents": 3000
+  },
+  {
+    "id": 15,
+    "category": "Apparel",
+    "name": "Hoodie",
+    "price_cents": 4500
+  },
+  {
+    "id": 16,
+    "category": "Apparel",
+    "name": "Socks",
+    "price_cents": 1500
+  },
+  {
+    "id": 17,
+    "category": "Drinkware",
+    "name": "Bong cup",
+    "price_cents": 3500
+  },
+  {
+    "id": 18,
+    "category": "Drinkware",
+    "name": "Duo lid tumbler",
+    "price_cents": 2000
+  },
+  {
+    "id": 19,
+    "category": "Drinkware",
+    "name": "Straw tumbler",
+    "price_cents": 2000
+  },
+  {
+    "id": 20,
+    "category": "Drinkware",
+    "name": "Sports bottle tumbler",
+    "price_cents": 1500
+  },
+  {
+    "id": 21,
+    "category": "Home Goods",
+    "name": "Magnet 2 x 2.25 in",
+    "price_cents": 150
+  },
+  {
+    "id": 22,
+    "category": "Home Goods",
+    "name": "Plush fleece blanket 30 x 40 in",
+    "price_cents": 5000
+  },
+  {
+    "id": 23,
+    "category": "Home Goods",
+    "name": "Plush fleece blanket 60 x 50 in",
+    "price_cents": 10000
+  },
+  {
+    "id": 24,
+    "category": "Home Goods",
+    "name": "3-piece knife set",
+    "price_cents": 2500
+  },
+  {
+    "id": 25,
+    "category": "Home Goods",
+    "name": "Canvas 8 x 10 in",
+    "price_cents": 2500
+  },
+  {
+    "id": 26,
+    "category": "Home Goods",
+    "name": "Coasters 4-piece",
+    "price_cents": 1000
+  },
+  {
+    "id": 27,
+    "category": "Home Goods",
+    "name": "Glass cutting board",
+    "price_cents": 2000
+  },
+  {
+    "id": 28,
+    "category": "Home Goods",
+    "name": "Flask and 2 shot glasses",
+    "price_cents": 4000
+  },
+  {
+    "id": 29,
+    "category": "Home Goods",
+    "name": "Car air freshener",
+    "price_cents": 500
+  },
+  {
+    "id": 30,
+    "category": "Home Goods",
+    "name": "Glitter wine bottle (plus wine)",
+    "price_cents": 2500
+  },
+  {
+    "id": 31,
+    "category": "Home Goods",
+    "name": "Hair clips",
+    "price_cents": 500
+  },
+  {
+    "id": 32,
+    "category": "Home Goods",
+    "name": "Knife",
+    "price_cents": 1000
+  },
+  {
+    "id": 33,
+    "category": "Home Goods",
+    "name": "Lamp",
+    "price_cents": 3000
+  },
+  {
+    "id": 34,
+    "category": "Home Goods",
+    "name": "Mini bar and 2 shot glasses",
+    "price_cents": 3500
+  },
+  {
+    "id": 35,
+    "category": "Home Goods",
+    "name": "Mouse pad",
+    "price_cents": 1500
+  },
+  {
+    "id": 36,
+    "category": "Home Goods",
+    "name": "Oven mitt",
+    "price_cents": 1000
+  },
+  {
+    "id": 37,
+    "category": "Home Goods",
+    "name": "Pillowcase",
+    "price_cents": 1000
+  },
+  {
+    "id": 38,
+    "category": "Home Goods",
+    "name": "Pillow",
+    "price_cents": 2500
+  },
+  {
+    "id": 39,
+    "category": "Home Goods",
+    "name": "Shot glasses 3-piece",
+    "price_cents": 1500
+  },
+  {
+    "id": 40,
+    "category": "Home Goods",
+    "name": "Wine glasses 2-piece",
+    "price_cents": 1000
+  },
+  {
+    "id": 41,
+    "category": "Home Goods",
+    "name": "Wine and glass holder",
+    "price_cents": 1000
+  },
+  {
+    "id": 42,
+    "category": "Home Goods",
+    "name": "Wine or liquor bottle (plus alcohol)",
+    "price_cents": 1500
+  },
+  {
+    "id": 43,
+    "category": "Party",
+    "name": "Custom party favors \u2014 quote",
+    "price_cents": null
+  },
+  {
+    "id": 44,
+    "category": "Party",
+    "name": "Custom balloon",
+    "price_cents": 1000
+  },
+  {
+    "id": 45,
+    "category": "Party",
+    "name": "Lighter",
+    "price_cents": 300
+  },
+  {
+    "id": 46,
+    "category": "Party",
+    "name": "Small balloon",
+    "price_cents": 500
+  },
+  {
+    "id": 47,
+    "category": "Party",
+    "name": "Stuffed balloon (starting at)",
+    "price_cents": 6500
+  },
+  {
+    "id": 48,
+    "category": "Party",
+    "name": "Cake topper (starting at)",
+    "price_cents": 1000
+  },
+  {
+    "id": 49,
+    "category": "Party",
+    "name": "Birthday pennant banner",
+    "price_cents": 1500
+  },
+  {
+    "id": 50,
+    "category": "Pets",
+    "name": "Dog leash",
+    "price_cents": 1000
+  },
+  {
+    "id": 51,
+    "category": "Pets",
+    "name": "Metal dog tag",
+    "price_cents": 800
+  },
+  {
+    "id": 52,
+    "category": "School Supplies",
+    "name": "Metal bookmark",
+    "price_cents": 400
+  },
+  {
+    "id": 53,
+    "category": "School Supplies",
+    "name": "Magnetic bookmark",
+    "price_cents": 500
+  },
+  {
+    "id": 54,
+    "category": "School Supplies",
+    "name": "Colored pencils",
+    "price_cents": 500
+  },
+  {
+    "id": 55,
+    "category": "School Supplies",
+    "name": "Composition book",
+    "price_cents": 500
+  },
+  {
+    "id": 56,
+    "category": "School Supplies",
+    "name": "Crayons",
+    "price_cents": 400
+  },
+  {
+    "id": 57,
+    "category": "School Supplies",
+    "name": "Drawstring backpack",
+    "price_cents": 2000
+  },
+  {
+    "id": 58,
+    "category": "School Supplies",
+    "name": "Folder",
+    "price_cents": 300
+  },
+  {
+    "id": 59,
+    "category": "School Supplies",
+    "name": "Glue stick",
+    "price_cents": 200
+  },
+  {
+    "id": 60,
+    "category": "School Supplies",
+    "name": "Ink pen",
+    "price_cents": 200
+  },
+  {
+    "id": 61,
+    "category": "School Supplies",
+    "name": "Pencil",
+    "price_cents": 50
+  },
+  {
+    "id": 62,
+    "category": "School Supplies",
+    "name": "Standard backpack 16 in",
+    "price_cents": 5000
+  },
+  {
+    "id": 63,
+    "category": "Sports",
+    "name": "Baseball / softball (1 panel)",
+    "price_cents": 3000
+  },
+  {
+    "id": 64,
+    "category": "Sports",
+    "name": "Basketball (2 panels)",
+    "price_cents": 4000
+  },
+  {
+    "id": 65,
+    "category": "Sports",
+    "name": "Football (2 panels)",
+    "price_cents": 4000
+  },
+  {
+    "id": 66,
+    "category": "Sports",
+    "name": "Volleyball (3 panels)",
+    "price_cents": 4000
+  },
+  {
+    "id": 67,
+    "category": "Sports",
+    "name": "Soccer ball (4 panels)",
+    "price_cents": 4000
+  },
+  {
+    "id": 68,
+    "category": "Sports",
+    "name": "Additional sports ball panel",
+    "price_cents": 1000
+  },
+  {
+    "id": 69,
+    "category": "Sports",
+    "name": "Custom sports ball box",
+    "price_cents": 2000
+  },
+  {
+    "id": 70,
+    "category": "Sports",
+    "name": "Koozie",
+    "price_cents": 300
+  },
+  {
+    "id": 71,
+    "category": "Sports",
+    "name": "Paddle fan",
+    "price_cents": 1000
+  },
+  {
+    "id": 72,
+    "category": "Sports",
+    "name": "Sports trading card",
+    "price_cents": 500
+  },
+  {
+    "id": 73,
+    "category": "Sports",
+    "name": "Big head sign 8 x 10 in",
+    "price_cents": 2000
+  },
+  {
+    "id": 74,
+    "category": "Sports",
+    "name": "Big head sign 11 x 14 in",
+    "price_cents": 2500
+  },
+  {
+    "id": 75,
+    "category": "Sports",
+    "name": "Big head sign 12 x 18 in",
+    "price_cents": 3000
+  },
+  {
+    "id": 76,
+    "category": "Sports",
+    "name": "Sports sign",
+    "price_cents": 1000
+  },
+  {
+    "id": 77,
+    "category": "Miscellaneous",
+    "name": "Car vent clip",
+    "price_cents": 1000
+  },
+  {
+    "id": 78,
+    "category": "Miscellaneous",
+    "name": "CD keychain",
+    "price_cents": 600
+  },
+  {
+    "id": 79,
+    "category": "Miscellaneous",
+    "name": "Large fabric gift bag",
+    "price_cents": 2000
+  },
+  {
+    "id": 80,
+    "category": "Miscellaneous",
+    "name": "Small handheld flag",
+    "price_cents": 500
+  },
+  {
+    "id": 81,
+    "category": "Miscellaneous",
+    "name": "Large pennant flag",
+    "price_cents": 2000
+  },
+  {
+    "id": 82,
+    "category": "Miscellaneous",
+    "name": "Small pennant flag",
+    "price_cents": 1000
+  },
+  {
+    "id": 83,
+    "category": "Miscellaneous",
+    "name": "Fountain",
+    "price_cents": 4000
+  },
+  {
+    "id": 84,
+    "category": "Miscellaneous",
+    "name": "Lantern",
+    "price_cents": 2500
+  },
+  {
+    "id": 85,
+    "category": "Miscellaneous",
+    "name": "Lanyard with ID holder",
+    "price_cents": 1500
+  },
+  {
+    "id": 86,
+    "category": "Miscellaneous",
+    "name": "Magnetic 9-piece puzzle",
+    "price_cents": 1000
+  },
+  {
+    "id": 87,
+    "category": "Miscellaneous",
+    "name": "Phone wallet",
+    "price_cents": 1000
+  },
+  {
+    "id": 88,
+    "category": "Miscellaneous",
+    "name": "Photo cube",
+    "price_cents": 1000
+  },
+  {
+    "id": 89,
+    "category": "Miscellaneous",
+    "name": "Playing cards with box",
+    "price_cents": 4000
+  },
+  {
+    "id": 90,
+    "category": "Miscellaneous",
+    "name": "Puzzle 8 x 10 in 120-piece",
+    "price_cents": 2000
+  },
+  {
+    "id": 91,
+    "category": "Miscellaneous",
+    "name": "Recordable tape",
+    "price_cents": 1000
+  },
+  {
+    "id": 92,
+    "category": "Miscellaneous",
+    "name": "Rubik-style photo cube",
+    "price_cents": 1500
+  },
+  {
+    "id": 93,
+    "category": "Miscellaneous",
+    "name": "Snowglobe",
+    "price_cents": 3000
+  },
+  {
+    "id": 94,
+    "category": "Miscellaneous",
+    "name": "Stickers 1\u20133 in",
+    "price_cents": 50
+  },
+  {
+    "id": 95,
+    "category": "Miscellaneous",
+    "name": "Stickers 4\u20136 in",
+    "price_cents": 100
+  },
+  {
+    "id": 96,
+    "category": "Miscellaneous",
+    "name": "Stone plaque",
+    "price_cents": 3500
+  },
+  {
+    "id": 97,
+    "category": "Miscellaneous",
+    "name": "Stuffed animal",
+    "price_cents": 2500
+  },
+  {
+    "id": 98,
+    "category": "Miscellaneous",
+    "name": "Canvas tote bag",
+    "price_cents": 2500
+  },
+  {
+    "id": 99,
+    "category": "Miscellaneous",
+    "name": "Poster 16 x 20 in",
+    "price_cents": 3000
+  }
+]
