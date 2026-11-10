@@ -8,7 +8,7 @@ from werkzeug.security import check_password_hash
 from werkzeug.utils import secure_filename
 
 ROOT=Path(__file__).resolve().parent
-app=Flask(__name__)
+app=Flask(__name__, template_folder='.')
 app.secret_key=os.getenv('SECRET_KEY') or secrets.token_hex(32)
 app.config.update(SESSION_COOKIE_HTTPONLY=True, SESSION_COOKIE_SAMESITE='Lax', SESSION_COOKIE_SECURE=os.getenv('HTTPS_ONLY','0')=='1', MAX_CONTENT_LENGTH=8*1024*1024)
 DB=os.getenv('DATABASE_PATH',str(ROOT/'orders.sqlite3'))
